@@ -8,13 +8,6 @@
       "url": "https://github.com/dusdk0098-tech/YWeb",
       "from": "2026-01-01",
       "to": "2099-12-31"
-    },
-    {
-      "id": "commit-test",
-      "title": "커밋 경로 테스트 (합성)",
-      "text": "",
-      "url": "https://example.com/test",
-      "to": "2026-01-31"
     }
   ]
 }
